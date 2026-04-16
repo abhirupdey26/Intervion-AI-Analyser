@@ -9,3 +9,12 @@ An AI-powered interview preparation platform that generates role-based interview
     🔐 Secure authentication using JWT
     📊 Structured response improvement
     ⚡ Fast and responsive UI
+
+🛠️ Tech Stack
+
+Frontend: React (Vite), HTML, CSS, JavaScript
+Backend: Node.js, Express.js
+Database: MongoDB Atlas
+AI Integration: Gemini API
+Authentication: JSON Web Tokens (JWT)
+Version Control: Git & GitHub

@@ -1,2 +1,11 @@
 # Intervion-AI-Analyser
-An AI-powered interview preparation platform that generates interview questions and model answers to help users improve response structuring and confidence. Built using React (Vite), Node.js, Express, MongoDB Atlas, Gemini API, and JWT authentication.
+🚀 Intervion AI Analyser
+
+An AI-powered interview preparation platform that generates role-based interview questions and model answers to help users improve response structuring, confidence, and job readiness.
+
+🧠 Features:
+    🎯 Role-based interview question generation
+    🤖 AI-generated model answers (Gemini API)
+    🔐 Secure authentication using JWT
+    📊 Structured response improvement
+    ⚡ Fast and responsive UI
